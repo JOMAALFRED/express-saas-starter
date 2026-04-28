@@ -105,4 +105,4 @@ express-saas-starter/
 
 ## Licence
 
-MIT — Joma Alfred Moustaki
+INSI — Joma Alfred Moustaki
